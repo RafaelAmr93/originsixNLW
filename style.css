@@ -841,3 +841,9 @@ footer .social a:hover {
     font-size: 1.25rem;
   }
 }
+
+@media (max-widht: 889) {
+  #header.scroll .title {
+    color: black;
+  }
+}
